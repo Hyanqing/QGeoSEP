@@ -1,0 +1,24 @@
+{
+  "atom_names": [
+    "atomic_num",
+    "chiral_tag",
+    "degree",
+    "formal_charge",
+    "hybridization",
+    "is_aromatic",
+    "total_numHs",
+    "num_radical_e",
+    "is_in_ring"
+  ],
+  "bond_names": [
+    "bond_type",
+    "is_in_ring",
+    "is_conjugated",
+    "bond_stereo"
+  ],
+  "pretrain_tasks": [
+    "Blr",
+    "Bar",
+    "Dar"
+  ]
+}
